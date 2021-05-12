@@ -1,5 +1,6 @@
 .movies .movie {
 	width: 45%;
+	height: 270px;
 	background-color: white;
 	margin-bottom: 70px;
 	font-weight: 300;
